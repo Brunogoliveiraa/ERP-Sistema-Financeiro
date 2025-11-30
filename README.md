@@ -114,8 +114,7 @@ Este projeto foi desenvolvido para auxiliar estudantes na compreensão de:
 <p style="font-size:16px;">
 Projeto desenvolvido para fins acadêmicos —  
 <strong>Faculdade Cruzeiro do Sul</strong><br>
-Professora: <strong>Katia Alves</strong> 🧡 
-<strong>Faculdade Cruzeiro do Sul</strong><br>
+Professora: <strong>Katia Alves</strong><br>  
 Aluno: <strong>Bruno Oliveira</strong> 
 </p>
 
